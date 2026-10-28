@@ -1,0 +1,19 @@
+{
+  "name": "Google Play Order Receipt Generator",
+  "short_name": "PlayReceipt",
+  "version": "1.0.0",
+  "description": "Official 590px Google Play Order Receipt email generator with customizable subscriptions, taxes, Play Points, and HD exports.",
+  "type": "webapp",
+  "category": "productivity",
+  "framework": "React 19 + TypeScript + Vite",
+  "license": "MIT",
+  "keywords": [
+    "google-play",
+    "receipt-generator",
+    "email-template",
+    "590px",
+    "react-19",
+    "vite",
+    "tailwindcss"
+  ]
+}
