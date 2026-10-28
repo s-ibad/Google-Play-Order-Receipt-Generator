@@ -2,11 +2,20 @@
 
 A pixel-perfect Google Play Store email receipt generator and visual builder adhering strictly to Google's official 590px HTML email layout specifications.
 
+[![Live Demo](https://img.shields.io/badge/demo-online-brightgreen.svg)](https://google-play-order-receipt-generator.vercel.app/)
 [![React](https://img.shields.io/badge/React-19-blue.svg)](https://react.dev)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.x-blue.svg)](https://www.typescriptlang.org)
 [![Vite](https://img.shields.io/badge/Vite-8.x-646CFF.svg)](https://vitejs.dev)
 [![TailwindCSS](https://img.shields.io/badge/Tailwind-4.x-38B2AC.svg)](https://tailwindcss.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+---
+
+## 🌐 Live Demo
+
+Visit the web app directly: **[google-play-order-receipt-generator.vercel.app](https://google-play-order-receipt-generator.vercel.app/)**
+
+---
 
 ---
 
